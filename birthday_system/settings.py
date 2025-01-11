@@ -58,7 +58,7 @@ MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware', 
 ]
 
-ALLOWED_HOSTS = ['https://email-sender-deployed.onrender.com']
+ALLOWED_HOSTS = ['https://truckers-workers-email-service.onrender.com']
 
 
 CORS_ALLOW_ALL_ORIGINS = True
